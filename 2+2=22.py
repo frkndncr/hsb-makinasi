@@ -3,9 +3,9 @@ başlık="""
 #                                                  #
 #    HESAP MAKİNESİ UYGULAMASINA HOŞ GELDİNİZ!!!   #
 #                                                  #
-#         PROGRAM YAZARI : Bozkurt                 #
+#         PROGRAM YAZARI : Furkan Dinçer           #
 #                                                  #
-#       PROGRAMDA KULLANILAN DİL : PYTHON3.X       #
+#       PROGRAMDA KULLANILAN DİL : PYTHON          #
 #                                                  #
 ####################################################
 """
